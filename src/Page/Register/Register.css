@@ -1,0 +1,37 @@
+.registrationPage {
+  background-image: url("https://cdn.shopify.com/s/files/1/2992/6338/files/contactus.jpg?13680053089151849834");
+
+  background-position: center;
+  background-size: cover;
+
+  padding: 3rem 0;
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+.registration {
+  display: flex;
+  flex-direction: column;
+  width: 360px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+
+  margin-right: 15%;
+  padding: 2rem 2rem;
+
+  border: 1px solid yellow;
+  box-shadow: 6px 6px 24px black;
+}
+
+.registration form {
+  display: flex;
+  flex-direction: column;
+}
+
+.registration form input {
+  border: none;
+  padding: 1rem 1.5rem;
+  margin: 1rem;
+  box-shadow: 6px 8px 12px darkslategrey;
+}

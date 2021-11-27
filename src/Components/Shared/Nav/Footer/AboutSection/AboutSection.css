@@ -1,0 +1,15 @@
+.footerAbout {
+  max-width: 420px;
+
+  color: aliceblue;
+  text-align: start;
+}
+.footerIcons {
+  margin-right: 8px;
+}
+h2 {
+  font-size: 2rem;
+}
+p {
+  font-size: 1.4rem;
+}

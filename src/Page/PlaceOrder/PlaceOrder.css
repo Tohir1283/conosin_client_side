@@ -1,0 +1,25 @@
+.purchase form {
+  display: flex;
+  flex-direction: column;
+  background-color: aliceblue;
+  padding: 4rem 6rem;
+  width: 500px;
+}
+
+form > label {
+  font-weight: 500;
+  font-size: 2rem;
+}
+
+form > input {
+  width: 380px;
+  padding: 1rem 2rem;
+  margin: 5px 0;
+  font-size: 2rem;
+  border: none;
+  outline: none;
+}
+
+form > input:focus {
+  border-bottom: 2px black solid;
+}

@@ -1,0 +1,9 @@
+.latestPosts {
+  text-align: start;
+
+  color: aliceblue;
+}
+
+.footerButton:hover footerButtonIcon {
+  margin-left: 4px;
+}

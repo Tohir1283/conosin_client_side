@@ -1,0 +1,15 @@
+.carousel {
+  width: 360px;
+  height: 250px;
+  padding: 2rem;
+  background-color: #f6f6f6;
+  margin: 3rem;
+  box-sizing: border-box;
+
+  text-align: start;
+}
+
+.review-section {
+  margin: 3rem;
+  width: 250px;
+}

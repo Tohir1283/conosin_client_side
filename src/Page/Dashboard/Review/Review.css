@@ -1,0 +1,15 @@
+.review {
+  width: 30%;
+  background-color: aliceblue;
+  margin: 5% auto;
+  padding: 1rem 1rem;
+
+  text-align: start;
+}
+
+.review form {
+  display: flex;
+  flex-direction: column;
+
+  margin: 2rem 3rem;
+}

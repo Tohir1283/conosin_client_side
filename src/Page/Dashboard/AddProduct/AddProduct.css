@@ -1,0 +1,17 @@
+.addProduct {
+  background-color: aliceblue;
+  padding: 3rem 5rem;
+  width: 480px;
+  margin: 2% auto;
+}
+
+.addProduct form {
+  display: flex;
+  flex-direction: column;
+}
+
+form textarea {
+  max-width: 380px;
+  height: 100px;
+  padding: 2rem;
+}
